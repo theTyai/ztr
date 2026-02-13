@@ -1,64 +1,87 @@
-# ZTR ~ ZeroToRoot
+# ⚡ Ashish Mishra – Performance Log
 
-**Name:** Ashish Mishra  
-**Focus:** DSA • CP • Web Development  
-
----
-
-## 📊 Overall Progress
-
-- 🧠 **Total DSA Problems Solved:** 0
-- 🏆 **Total CP Problems Solved:** 0
-- 🌐 **Total Web Features Built:** 0
-- ⏳ **Total Study Hours:** 0 hrs
+> Building strong foundations in Algorithms, Competitive Programming & Full-Stack Development.
 
 ---
 
-## 🎯 Monthly Goals
+## 📊 Performance Metrics
 
-- DSA Target: 200 Problems  
-- CP Target: Improve Rating to XXXX  
-- Web Dev Target: Complete Major Project  
-
-### 📈 Progress Bar
-
-DSA:  
-`[████░░░░░░░░░░░░░░░░] 20/200`
-
-CP:  
-`[███░░░░░░░░░░░░░░░░░] 15 Problems`
-
-Web Dev:  
-`[██████░░░░░░░░░░░░░] 6 Features`
+| Category | Count |
+|----------|-------|
+| 🧠 DSA Problems Solved | 0 |
+| 🏆 CP Problems Solved | 0 |
+| 🌐 Web Features Built | 0 |
+| ⏳ Total Study Hours | 0 hrs |
+| 🔥 Current Streak | 0 days |
 
 ---
 
-# 📅 Daily Logs
+## 🎯 2026 Targets
+
+- 300+ DSA Problems  
+- 150+ CP Problems  
+- 1 Production-Ready Full-Stack Project  
+- Open Source Contribution  
+- Consistency > Motivation  
 
 ---
 
-## Date: YYYY-MM-DD
-**Study Time:** X hrs  
+# 📅 Execution Log
 
-### 🧠 DSA
-- Topics:
-- Problems:
-- Learnings:
+---
 
-### 🏆 CP
-- Practice Type:
-- Problems:
-- Mistakes:
+## 🗓 YYYY-MM-DD | ⏳ X hrs | 🔥 Day X
 
-### 🌐 Web Dev
-- Learned:
-- Built:
-- Next:
+### 🧠 Algorithms & Data Structures
+**Focus:**  
+-  
 
-### ➕ Extra
-- 
+**Problems Solved (X):**
+- Platform – Problem Name (Difficulty)
+-  
 
-### ✅ Reflection
-- Good:
-- Improve:
-- Tomorrow:
+**Core Insight:**
+> One key concept learned today.
+
+---
+
+### 🏆 Competitive Programming
+**Mode:** Contest / Upsolving / Targeted Practice  
+
+**Solved (X):**
+- Platform – Problem Name
+-  
+
+**Performance Notes:**
+- Strength:
+- Weakness:
+- Fix for tomorrow:
+
+---
+
+### 🌐 Full-Stack / Web Engineering
+**Concepts:**
+-  
+
+**Execution:**
+- Feature implemented:
+- Refactor:
+- Optimization:
+
+**Engineering Takeaway:**
+> Short technical insight.
+
+---
+
+### 🧩 Systems / Security / Extra
+-  
+
+---
+
+### ⚙️ Daily Review
+- ✅ Win:
+- ❌ Gap:
+- 🎯 Tomorrow’s Objective:
+
+---
+
