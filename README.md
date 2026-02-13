@@ -1,87 +1,27 @@
 # ⚡ Ashish Mishra – Performance Log
 
-> Building strong foundations in Algorithms, Competitive Programming & Full-Stack Development.
+> Building strong foundations in Algorithms, Competitive Programming & Development.
 
 ---
 
-## 📊 Performance Metrics
+## Metrics
 
-| Category | Count |
-|----------|-------|
-| 🧠 DSA Problems Solved | 0 |
-| 🏆 CP Problems Solved | 0 |
-| 🌐 Web Features Built | 0 |
-| ⏳ Total Study Hours | 0 hrs |
-| 🔥 Current Streak | 0 days |
+- Total DSA Problems:
+- Total CP Problems:
+- Total Web Tasks:
+- Total Study Hours:
+- Current Streak:
 
 ---
 
-## 🎯 2026 Targets
+## 2026-02-13 | 5h | Day 21
 
-- 300+ DSA Problems  
-- 150+ CP Problems  
-- 1 Production-Ready Full-Stack Project  
-- Open Source Contribution  
-- Consistency > Motivation  
-
----
-
-# 📅 Execution Log
+| Domain   | Task                                   | Result |
+|----------|------------------------------------------|--------|
+| DSA      | 3 problems – Binary Search              | Edge cases improved |
+| CP       | 2 CF problems – Implementation          | Speed improved |
+| Web      | JWT middleware                          | Auth flow complete |
+| Web      | Session bug fix                         | State stable |
+| Security | OWASP A01 study                         | Access control clarity |
 
 ---
-
-## 🗓 YYYY-MM-DD | ⏳ X hrs | 🔥 Day X
-
-### 🧠 Algorithms & Data Structures
-**Focus:**  
--  
-
-**Problems Solved (X):**
-- Platform – Problem Name (Difficulty)
--  
-
-**Core Insight:**
-> One key concept learned today.
-
----
-
-### 🏆 Competitive Programming
-**Mode:** Contest / Upsolving / Targeted Practice  
-
-**Solved (X):**
-- Platform – Problem Name
--  
-
-**Performance Notes:**
-- Strength:
-- Weakness:
-- Fix for tomorrow:
-
----
-
-### 🌐 Full-Stack / Web Engineering
-**Concepts:**
--  
-
-**Execution:**
-- Feature implemented:
-- Refactor:
-- Optimization:
-
-**Engineering Takeaway:**
-> Short technical insight.
-
----
-
-### 🧩 Systems / Security / Extra
--  
-
----
-
-### ⚙️ Daily Review
-- ✅ Win:
-- ❌ Gap:
-- 🎯 Tomorrow’s Objective:
-
----
-
