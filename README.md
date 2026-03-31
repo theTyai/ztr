@@ -4,24 +4,10 @@
 
 ---
 
-## Metrics
-
-- Total DSA Problems:
-- Total CP Problems:
-- Total Web Tasks:
-- Total Study Hours:
-- Current Streak:
-
----
-
-## 2026-02-13 | 5h | Day 21
-
-| Domain   | Task                                   | Result |
-|----------|------------------------------------------|--------|
-| DSA      | 3 problems – Binary Search              | Edge cases improved |
-| CP       | 2 CF problems – Implementation          | Speed improved |
-| Web      | JWT middleware                          | Auth flow complete |
-| Web      | Session bug fix                         | State stable |
-| Security | OWASP A01 study                         | Access control clarity |
+## 2026-03-31 | Day 1
+- LC 1281: Subtract the Product & SUm of Digits of an Integer
+- LC 7: Reverse integer  
+- LC 1009: Compliment of Base 10 integer
+- LC 476: Number Compliment
 
 ---
