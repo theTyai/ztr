@@ -17,3 +17,8 @@
 - LC 217: Contains Duplicate
 - LC 26: Remove Duplicates from Sorted Array
 - LC 189: Rotate Array
+
+## 2026-04-02 | Day 3
+- LC 283: Move Zeroes
+- LC 485: Max Consecutive Ones
+- LC 136 Single Number
